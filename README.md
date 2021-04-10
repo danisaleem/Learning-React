@@ -11,6 +11,11 @@ To view the application in the browser, In the project directory, you can run:
 
 * `$npm run start`
 
+To start the json server, Open another terminal in the project directory, and run:
+
+* `$npx json-server --watch data/db.json --port 8000`
+
+
 This will run the app in the development mode.\
 Now open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
