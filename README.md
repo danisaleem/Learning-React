@@ -1,19 +1,22 @@
-# Getting Started React
+# Learning React
+A small demo blog site built using React framework. 
+One can view all blogs, view details of  specific blog, add new blogs and delete blogs! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# How to?
+Clone the repository.
+Open the terminal in the project directory.
+* ### `$ npm install`
 
-## Available Scripts
+To view the application in the browser, In the project directory, you can run:
 
-In the project directory, you can run:
+* ### `$ npm run start`
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This will run the app in the development mode.\
+Now open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## Learn More
+## Learn More | Documentation
 
 To learn React, check out the [React documentation](https://reactjs.org/).
