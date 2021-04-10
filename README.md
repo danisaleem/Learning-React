@@ -5,11 +5,11 @@ One can view all blogs, view details of  specific blog, add new blogs and delete
 # How to?
 Clone the repository.
 Open the terminal in the project directory.
-* ### `$ npm install`
+* `$ npm install`
 
 To view the application in the browser, In the project directory, you can run:
 
-* ### `$ npm run start`
+* `$npm run start`
 
 This will run the app in the development mode.\
 Now open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -17,6 +17,6 @@ Now open [http://localhost:3000](http://localhost:3000) to view it in the browse
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## Learn More | Documentation
+## Documentation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Wanna Learn More? check out the [React documentation](https://reactjs.org/).
