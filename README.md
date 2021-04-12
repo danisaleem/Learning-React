@@ -27,8 +27,8 @@ You will also see any lint errors in the console.
 Wanna Learn More? check out the [React documentation](https://reactjs.org/).
 
 ## Screenshots
-![Home Page](./snapshots/Home.PNG "Home Page")
+![Home Page](https://github.com/danisaleem/Learning-React/blob/master/snapshots/Home.png "Home Page")
 
-![Blog Details](./snapshots/BlogDetails.PNG "Blog Details Page")
+![Blog Details Page](https://github.com/danisaleem/Learning-React/blob/master/snapshots/BlogDetails.png "Blog Details Page")
 
-![Create Blog](./snapshots/CreateBlog.PNG "Create Blog Page")
+![Create Blog Page](https://github.com/danisaleem/Learning-React/blob/master/snapshots/CreateBlog.png "Create Blog Page")
